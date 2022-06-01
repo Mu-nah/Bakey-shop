@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken')
 
 
 
-const API_SECRET = "am_just_trying"
+const API_SECRET = ""
 
 
 exports.signup = async (req, res)=>{
